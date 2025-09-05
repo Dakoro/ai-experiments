@@ -197,3 +197,4 @@ cython_debug/
 data
 media
 notebooks/mnist
+notebooks/ww-img
