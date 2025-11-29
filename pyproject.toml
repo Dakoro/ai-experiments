@@ -26,6 +26,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "sentence-transformers>=5.1.0",
     "sentencepiece>=0.2.0",
+    "tensorflow>=2.20.0",
     "tiktoken>=0.9.0",
     "torch>=2.7.1",
     "torchdiffeq>=0.2.5",
@@ -33,4 +34,5 @@ dependencies = [
     "tqdm>=4.67.1",
     "transformers>=4.52.4",
     "weightwatcher>=0.7.5.5",
+    "yfinance>=0.2.66",
 ]
