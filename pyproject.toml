@@ -21,6 +21,7 @@ dependencies = [
     "pillow>=11.2.1",
     "protobuf>=6.31.1",
     "python-docx>=1.2.0",
+    "pyts>=0.13.0",
     "scikit-learn>=1.7.0",
     "scipy>=1.15.3",
     "seaborn>=0.13.2",
